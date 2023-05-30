@@ -1,0 +1,7 @@
+org.example
+org.example.controller
+org.example.database
+org.example.objects
+org.example.reflection
+org.example.singlePointAccess
+org.example.views
